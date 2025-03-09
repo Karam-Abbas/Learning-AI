@@ -1,70 +1,28 @@
-(Verse 1 - Sung by a narrator, maybe a news anchor voice)
-In the world of Pakistani cricket, tensions run high
-A drama unfolds, beneath the bright sky
-Hassaan Baig and Masud, two names in the fray
-A feud ignited, what can we say?
-From boardroom to field, the rumors take flight
-A clash of opinions, a power struggle fight
-The fans are all watching, with bated breath held
-As the story unravels, a tale to be tell'd.
+The flickering fluorescent lights of Maisum Abbas's tiny dorm room in NASTP university seemed to mock him. Hours bled into each other, marked only by the dwindling charge on his phone and the growing mountain of empty energy drink cans beside his keyboard. He was stuck. Utterly, hopelessly, infuriatingly stuck.
 
-(Chorus)
-Oh, Hassaan and Masud, a battle untold
-A story of ambition, brave and bold
-The cricket world watches, with eager eyes keen
-To see how this drama will play out, on the screen.
+Maisum, a bright-eyed second-semester student, had envisioned himself as a coding prodigy, the next Zuckerberg emerging from the hallowed halls of NASTP. His project, a revolutionary social media app connecting students based on shared study habits, was his ticket to that future. But tonight, that future was on fire – metaphorically, at least.
 
-(Verse 2 - Sung by a character representing Hassaan Baig)
-I've given my all, for the team and the game
-Driven by passion, fueled by the flame
-I've got what it takes, to lead and to win
-But some try to hold me, within and within.
-He questions my methods, my vision, my call
-He's undermining my efforts, determined to stall
-This progress we're making, this winning we crave
-He's jealous, I reckon, the power I save.
+For three agonizing hours, Maisum had battled a particularly nasty bug. The app crashed every time a user tried to upload an image. He’d scoured Stack Overflow, consulted the cryptic error messages, and even tried yelling at the screen (a surprisingly common practice among frustrated programmers, he'd learned). Nothing worked.
 
-(Verse 3 - Sung by a character representing Masud)
-The youngsters today, they lack the respect
-For experience and wisdom, they haven't yet checked
-He's reckless and brash, a danger, I fear
-Putting personal glory, above what is clear.
-My only intention is to safeguard the game
-To ensure that the ethics, remain the same
-His ambition's blinding, he cannot see straight
-He'll lead us to ruin, and seal our sad fate.
+Each failed attempt chipped away at his initial optimism, replacing it with a gnawing frustration. His jaw tightened, his fingers drummed a frantic rhythm on the desk, and a knot formed in his stomach. He re-read the same lines of code, a dizzying, nonsensical jumble of symbols that mocked his understanding.
 
-(Chorus)
-Oh, Hassaan and Masud, a battle untold
-A story of ambition, brave and bold
-The cricket world watches, with eager eyes keen
-To see how this drama will play out, on the screen.
+He’d started the evening confident, a little cocky even. Now, he felt like a complete fraud. Was he even cut out for this? Maybe he should just drop out and become a… a plumber. At least plumbing problems had predictable solutions.
 
-(Bridge - Narrator)
-The whispers are spreading, the camps take their sides
-The pressure is mounting, where truth often hides
-Will bridges be mended, or will they just burn?
-The future of cricket, hangs on this turn.
+He slammed his fist on the desk, rattling the monitor and sending a cascade of empty cans clattering to the floor. “Ugh!” he groaned, burying his face in his hands. The screen glared back at him, the cursed error message blinking mockingly.
 
-(Verse 4 - Sung by both characters together, overlapping and argumentative)
-**Hassaan:** He's blocking my path, with his outdated ways!
-**Masud:** He's risking it all, in this reckless haze!
-**Hassaan:** I'm bringing innovation, a fresh winning streak!
-**Masud:** He's ignoring the lessons, the history speaks!
-**Hassaan:** He's stuck in the past, afraid to advance!
-**Masud:** He's destroying the legacy, a dangerous chance!
+He looked around the room. The cramped space, usually a sanctuary of focused work, now felt like a cage. The half-finished code, once a source of pride, now felt like a personal affront. He felt a surge of anger, hot and irrational.
 
-(Chorus)
-Oh, Hassaan and Masud, a battle untold
-A story of ambition, brave and bold
-The cricket world watches, with eager eyes keen
-To see how this drama will play out, on the screen.
+It was a moment of pure, unadulterated frustration. Years of pent-up stress from deadlines, exams, and the relentless pressure to succeed seemed to coalesce into a single, destructive urge. He felt a primal scream building inside him.
 
-(Outro - Narrator)
-The game goes on, the wickets keep falling
-Who will prevail? The fans are all calling
-For unity, for peace, for the good of the game
-But the feud of Hassaan and Masud, will forever remain...
-...A tale of two rivals, locked in a fight
-Under the Pakistani cricket's ever-bright light.
+He looked at the computer, the blinking cursor, the glowing screen, the physical manifestation of his failure. And that's when the absurd thought flickered in his mind. A thought so outlandish, so impulsive, that for a fleeting second, he considered it seriously.
+
+He imagined the satisfaction of watching the screen melt, the components crackle, the code… gone. Just… gone.
+
+But then, the rational part of his brain, the part that was supposed to be coding a complex social media app, kicked in. He imagined the consequences: expulsion from the university, a hefty fine, and the embarrassing explanation to his parents. The fleeting urge quickly vanished.
+
+Instead of reaching for a lighter (which he didn’t even own), Maisum took a deep breath. He stood up, stretched his aching muscles, and walked to the window. He looked out at the sprawling campus, the lights twinkling in the distance. He wasn't the only one struggling. Every student out there was facing their own challenges, their own moments of frustration.
+
+He grabbed his jacket and walked out of the room. He needed air, he needed perspective, and he desperately needed a break. He headed to the campus cafeteria, hoping to find a familiar face and maybe, just maybe, a fresh cup of coffee and a new approach to his image uploading problem.
+
+He left the cursed computer behind, blinking innocently in the empty room. The fire in his heart had subsided, replaced by a weary resignation. He’d come back to it. He always did. He was a programmer, after all. And programmers, even frustrated ones, never truly give up. They just take a break. Maybe. Hopefully. Before they do something they really regret. And besides, he had a backup on GitHub. Thank goodness for version control.
 
