@@ -28,5 +28,5 @@ def getResponse(prompt):
 
 prompt = input("Please Enter your prompt:")
 a = getResponse(prompt)
-file = open("Output.txt", "w")
+file = open("Output.md", "w")
 print(a['candidates'][0]['content']['parts'][0]['text'],file=file)
