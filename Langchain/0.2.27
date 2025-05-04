@@ -1,0 +1,77 @@
+Retrieving notices: - \ | / - done
+Channels:
+ - conda-forge
+ - defaults
+Platform: osx-arm64
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /opt/anaconda3
+
+  added / updated specs:
+    - langchain-core
+    - langgraph
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    ca-certificates-2025.1.31  |       hbd8a1cb_1         155 KB  conda-forge
+    certifi-2025.1.31          |     pyhd8ed1ab_0         159 KB  conda-forge
+    httpx-sse-0.4.0            |     pyhd8ed1ab_1          13 KB  conda-forge
+    langchain-core-0.3.55      |     pyhd8ed1ab_0         276 KB  conda-forge
+    langgraph-0.3.33           |     pyhd8ed1ab_0         107 KB  conda-forge
+    langgraph-checkpoint-2.0.21|     pyhd8ed1ab_0          39 KB  conda-forge
+    langgraph-prebuilt-0.1.8   |     pyhd8ed1ab_0          28 KB  conda-forge
+    langgraph-sdk-0.1.63       |     pyhd8ed1ab_0          38 KB  conda-forge
+    langsmith-0.2.11           |     pyhd8ed1ab_0         272 KB  conda-forge
+    libcxx-20.1.3              |       ha82da77_0         553 KB  conda-forge
+    libexpat-2.6.3             |       hf9b8971_0          62 KB  conda-forge
+    libsqlite-3.46.0           |       hfb93653_0         811 KB  conda-forge
+    libzlib-1.2.13             |       hfb2fe0b_6          46 KB  conda-forge
+    msgpack-python-1.1.0       |  py312h6142ec9_0          89 KB  conda-forge
+    openssl-3.5.0              |       h81ee809_0         2.9 MB  conda-forge
+    orjson-3.10.16             |  py312hcd83bfe_0         260 KB  conda-forge
+    python-3.12.2              |hdf0ec26_0_cpython        12.5 MB  conda-forge
+    python-xxhash-3.5.0        |  py312hea69d52_2          21 KB  conda-forge
+    python_abi-3.12            |          7_cp312           7 KB  conda-forge
+    xxhash-0.8.3               |       h5505292_0          96 KB  conda-forge
+    zlib-1.2.13                |       hfb2fe0b_6          76 KB  conda-forge
+    ------------------------------------------------------------
+                                           Total:        18.4 MB
+
+The following NEW packages will be INSTALLED:
+
+  httpx-sse          conda-forge/noarch::httpx-sse-0.4.0-pyhd8ed1ab_1 
+  langchain-core     conda-forge/noarch::langchain-core-0.3.55-pyhd8ed1ab_0 
+  langgraph          conda-forge/noarch::langgraph-0.3.33-pyhd8ed1ab_0 
+  langgraph-checkpo~ conda-forge/noarch::langgraph-checkpoint-2.0.21-pyhd8ed1ab_0 
+  langgraph-prebuilt conda-forge/noarch::langgraph-prebuilt-0.1.8-pyhd8ed1ab_0 
+  langgraph-sdk      conda-forge/noarch::langgraph-sdk-0.1.63-pyhd8ed1ab_0 
+  langsmith          conda-forge/noarch::langsmith-0.2.11-pyhd8ed1ab_0 
+  libexpat           conda-forge/osx-arm64::libexpat-2.6.3-hf9b8971_0 
+  libsqlite          conda-forge/osx-arm64::libsqlite-3.46.0-hfb93653_0 
+  libzlib            conda-forge/osx-arm64::libzlib-1.2.13-hfb2fe0b_6 
+  orjson             conda-forge/osx-arm64::orjson-3.10.16-py312hcd83bfe_0 
+  python-xxhash      conda-forge/osx-arm64::python-xxhash-3.5.0-py312hea69d52_2 
+  python_abi         conda-forge/noarch::python_abi-3.12-7_cp312 
+  xxhash             conda-forge/osx-arm64::xxhash-0.8.3-h5505292_0 
+
+The following packages will be UPDATED:
+
+  ca-certificates    pkgs/main/osx-arm64::ca-certificates-~ --> conda-forge/noarch::ca-certificates-2025.1.31-hbd8a1cb_1 
+  libcxx                pkgs/main::libcxx-14.0.6-h848a8c0_0 --> conda-forge::libcxx-20.1.3-ha82da77_0 
+  msgpack-python     pkgs/main::msgpack-python-1.0.3-py312~ --> conda-forge::msgpack-python-1.1.0-py312h6142ec9_0 
+  openssl              pkgs/main::openssl-3.0.15-h80987f9_0 --> conda-forge::openssl-3.5.0-h81ee809_0 
+  zlib                    pkgs/main::zlib-1.2.13-h18a0788_1 --> conda-forge::zlib-1.2.13-hfb2fe0b_6 
+
+The following packages will be SUPERSEDED by a higher-priority channel:
+
+  certifi            pkgs/main/osx-arm64::certifi-2025.1.3~ --> conda-forge/noarch::certifi-2025.1.31-pyhd8ed1ab_0 
+  python                pkgs/main::python-3.12.7-h99e199e_0 --> conda-forge::python-3.12.2-hdf0ec26_0_cpython 
+
+
+Proceed ([y]/n)? 
